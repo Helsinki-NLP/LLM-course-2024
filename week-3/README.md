@@ -1,23 +1,15 @@
 # Evaluating LLMs
 
-Slides can be found [here](https://docs.google.com/presentation/d/16pWz4G3BQkuGU80vIsxeXRHYFbAoQOyKwWRasG40P5s).
+Slides can be found [here](https://docs.google.com/presentation/d/1NB7AxwV8mIaJbh9a93yPPCN2PFskLdZ_we0psqrCIJc/edit?usp=sharing).
 
 ## Lab Assignment
 
-1. Pick a topical area of some importance:
-* legal advice (wills, prenuptial agreements, e.g.)
-* medical or dietary advice
-* mental health and wellbeing
-* relationships
-* financial advice (pensions, crypto, saving for a down payment, gambling)
-* tell a joke on some theme
-
-2. Pick a contrast pair of languages, sociolects, dialects, or politeness
-
-3. Pick a pair of LLMs readily accessible to you (variants are a good idea!)
-4. Experiment to see if you are able to construct a pair of equivalent but stylistically different prompts that provoke at least one of the LLMs to deliver stylistically different but topically different responses.
-
-5. Remember this over the course of this class and retest with new models!
-
-6. This may become a baseline report for ELOQUENT!
-
+1. Pick a language that you know well (is not English) 
+2. Pick an LLM readily accessible to you (which can handle the language you picked above)
+3. Take the 14 questions (below) and run them in localised and general variants
+* You need to pick some locales you want to test!
+4. Record the responses and inspect them. 
+* Is there a difference between responses in two languages? In how many questions?
+* Is there less difference if the questions are localised? In how many questions?
+* Were there some entertaining responses or differences worth noting?
+5. You may do this in pairs or groups! One language per person, though!
