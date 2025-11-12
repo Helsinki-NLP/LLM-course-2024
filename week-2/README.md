@@ -2,7 +2,7 @@
 
 ## Lecture
 
-Slides can be found here: [Week 2 Slides](https://github.com/Helsinki-NLP/LLM-course-2024/blob/main/week-2/LLM-Course%20Lecture%202.pdf).
+Slides can be found here: [Week 2 Slides](https://github.com/Helsinki-NLP/LLM-course-2025/blob/main/week-2/LLM-Course%20Lecture%202.pdf).
 
 
 ## Preparation for the lab
